@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App_sample</string>
+    <string name="title_home">Home</string>
+    <string name="title_lainnya">Lainnya</string>
+    <string name="title_layanan">Layanan</string>
+
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Masukkan Nama</string>
+    <string name="error_message_email">Masukkan Email</string>
+    <string name="error_message_age">Masukkan Umur</string>
+    <string name="error_message_password">Masukkan Password</string>
+    <string name="success_message">Registrasi Berhasil</string>
+    <string name="text_not_member">Tidak punya akun? Buat disini</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Sudah Terdaftar</string>
+    <string name="error_password_match">Password Tidak Sesuai</string>
+    <string name="error_valid_email_password">Email Atau Password Salah</string>
+    <string name="text_member">Sudah Punya Akun? Login</string>
+    <string name="logout">Logout</string>
+</resources>
